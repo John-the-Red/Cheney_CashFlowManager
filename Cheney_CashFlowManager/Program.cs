@@ -1,5 +1,11 @@
 ﻿using System;
-
+// John Cheney
+// IT112 
+// NOTES: This was much harder from the last few assignments this quarter as I had little understanding of the "enum" stuff
+// While I did get it to work, it was difficult to figure out how it worked within the sub classes and when to use it properly
+// I also do not remember learning how to overrride the ToString() method, but with some advice from a few classmates I was
+// able to figure it out.
+// BEHAVIORS NOT IMPLEMENTED AND WHY: To my knowledge, everything is properly implemented.
 namespace Cheney_CashFlowManager
 {
     class Program
